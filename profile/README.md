@@ -1,12 +1,8 @@
-## Hi there 👋
+<p align="center">
+ <img src="https://github.com/cithacks/assets/blob/main/cithacks.png" height="200" width="200">
+</p>
 
-<!--
+# Intro  
+Welcome to Cit Hacks, the official Hack club of camellia Institute Of Technology aimed for encouraging and promoting public speaking,communication skills, soft skills, best practices, technical expertise and opensource contribution in the field of Computer Science via conducting workshops , hackathons and mentorship sessions in an inclusive and welcoming environment
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
