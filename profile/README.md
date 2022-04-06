@@ -57,4 +57,5 @@ Explicit enforcement of the Code of Conduct applies to all official workshops, i
 If you feel uncomfortable or think there may be a potential violation of the code of conduct,
 please report it immediately by sending us a mail at `developersofcit@gmail.com`
 
-
+## ACKNOWLEDGEMENTS
+This was adapted from [HACKCLUB CODE OF CONDUCT](https://hackclub.com/conduct/) & [MLH CODE OF CONDUCT](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)
