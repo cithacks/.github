@@ -18,7 +18,7 @@ If you join in or contribute to our club ecosystem in any way, you are encourage
 
 Explicit enforcement of the Code of Conduct applies to all official workshops, in-person meetings, and events including:
 
-- The Slack , Discord  & Telegram channel 
+- The Slack & Discord channel 
 - The Events, including AMAs, Gaming Nights, Zoom study call, work shops and mentorship sessions 
 - The GitHub projects
 - Club Meetings
