@@ -43,3 +43,18 @@ Explicit enforcement of the Code of Conduct applies to all official workshops, i
    - Discussing potentially offensive or sensitive issues; this all too often leads to unnecessary conflict.
    - Microaggressions: brief and commonplace verbal, behavioral, and environmental indignities that communicate hostile, derogatory or negative slights and insults to a person or group.
 
+## UNACCEPTABLE BEHAVIOUR
+
+- Expressing or provoking:
+  - Insulting, demeaning, hateful, or threatening remarks;
+  - Biscrimination based on age, nationality, race, (dis)ability, gender (identity or expression), sexuality, religion, or similar personal characteristic;
+  - Bullying or systematic harassment;
+  - unwelcome sexual advances, including sexually explicit content.
+- Advertisement or recruitment for events, companies, organizations, etc - unless specifically given permission by Hack Club HQ.
+- Posting spam-like content that disrupts the environment of the community.
+
+## ISSUE REPORTING 
+If you feel uncomfortable or think there may be a potential violation of the code of conduct,
+please report it immediately by sending us a mail at `developersofcit@gmail.com`
+
+
