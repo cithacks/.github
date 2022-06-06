@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/cithacks/assets/blob/main/cithacks.png" height="200" width="200">
+ <img src="https://cloud-pk2j14zab-hack-club-bot.vercel.app/0hack_beats.png" height="200" width="200">
 </p>
 
 # CODE OF CONDUCT 
