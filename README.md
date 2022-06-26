@@ -5,7 +5,7 @@
 # CODE OF CONDUCT 
 
 ## OUR PLEDGE
-Welcome to Cit Hacks, the official tech community of camellia Institute Of Technology aimed for encouraging and promoting public speaking,communication skills, soft skills, best practices, technical expertise and opensource contribution in the field of Computer Science via conducting workshops , hackathons and mentorship sessions in an inclusive and welcoming environment
+Welcome to Hack Beats(formerly known as Cit Hacks), the official tech community of Camellia Institute Of Technology aimed for encouraging and promoting public speaking, communication skills, soft skills, best practices, technical expertise and opensource contribution in the field of Computer Science via conducting workshops , hackathons and mentorship sessions in an inclusive and welcoming environment
 
 ## OUR MOTO 
 - Treat everyone with respect and kindness.
@@ -47,9 +47,9 @@ Explicit enforcement of the Code of Conduct applies to all official workshops, i
 
 - Expressing or provoking:
   - Insulting, demeaning, hateful, or threatening remarks;
-  - Biscrimination based on age, nationality, race, (dis)ability, gender (identity or expression), sexuality, religion, or similar personal characteristic;
-  - Bullying or systematic harassment;
-  - unwelcome sexual advances, including sexually explicit content.
+  - Discrimination based on age, nationality, race, (dis)ability, gender (identity or expression), sexuality, religion, or personal characteristics.
+  - Bullying or systematic harassment.
+  - Unwelcome sexual advances, including sexually explicit content.
 - Advertisement or recruitment for events, companies, organizations, etc - unless specifically given permission by Hack Club HQ.
 - Posting spam-like content that disrupts the environment of the community.
 
